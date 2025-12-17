@@ -1,7 +1,7 @@
 # Excel Business Intelligence: Financial, Sales & Customer Insights
 **Project Author:** Mohamed | **Date Completed:** December 12, 2025
 
-## 📌 Project Overview
+##  Project Overview
 This project presents a comprehensive 360-degree analysis of financial performance, sales trends, and customer behavior using the **AdventureWorks** dataset. The entire end-to-end BI solution—from ETL to final visualization—was executed exclusively within Microsoft Excel.
 
 ### Key Objectives:
@@ -15,7 +15,7 @@ This project presents a comprehensive 360-degree analysis of financial performan
 * **DAX (Data Analysis Expressions):** Development of complex measures including **YoY Growth**, **AOV**, and **Profit Margins**.
 * **Excel Dashboards:** Interactive UI with slicers and dynamic charts for executive reporting.
 
-## 📊 Dashboard Previews
+## Dashboard Previews
 | Financial Performance | Customer Insights |
 | :---: | :---: |
 | ![Financial Dashboard](./screenshots/financial_dashboard.png) | ![Customer Dashboard](./screenshots/customer_insights.png) |
@@ -35,7 +35,7 @@ This project presents a comprehensive 360-degree analysis of financial performan
 * **Loyalty Pillars:** The Top 20 buyers placed **23 to 29 orders each**, signaling an untapped opportunity for a formal VIP program.
 * **Revenue Correlation:** Data shows a strong correlation between **smaller family sizes** and higher total spend, suggesting a specific target for marketing spend.
 
-## 🚀 Actionable Recommendations
+##  Actionable Recommendations
 1. **Diversify Geographic Risk:** While the US/Australia are strong, increasing investment in Canada/Germany will protect the business from regional economic shifts.
 2. **SKU Optimization:** Phase out low-margin apparel items (like racing socks) that drag down the overall margin, or bundle them with high-margin bikes.
 3. **Tiered Loyalty Launch:** Implement a "Platinum" tier for customers with 20+ orders to ensure long-term retention of high-value players.
