@@ -45,4 +45,3 @@ This project presents a comprehensive 360-degree analysis of financial performan
 
 ✨ *This analysis demonstrates that Excel, powered by Power Query and DAX, is a highly capable tool for delivering deep Business Intelligence (BI) insights that drive strategic decision-making.*
 
-[LinkedIn](YOUR_LINK) | [GitHub Portfolio](YOUR_LINK)
